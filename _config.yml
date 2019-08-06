@@ -10,27 +10,27 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "GDG DevFest Season 2014"
-email: "devfest@gdg.org.ua"
+title: "GDG Cardiff 2019"
+email: "info@devfest.cymru"
 description: "GDG DevFest is a set of events all around the world"
-baseurl: "/zeppelin"
-url: "https://gdg-x.github.io"
+#baseurl: "/zeppelin"
+url: "https://devfest.cymru"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-43643469-5"
-googleAnalyticsSiteUrl: "gdg-x.github.io"
+googleAnalyticsSiteUrl: "devfest.cymru"
 siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
-organizerName: "GDG Lviv"
-organizerAlternateName: "Google Developer Group Lviv"
-organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
-organizerEmail: "lviv@gdg.org.ua"
+organizerName: "Cardiff Developer Meetups"
+organizerAlternateName: "Cardiff Developer Meetups"
+organizerDescription: "Geeks and developers who want to create a vibrant tech community in Cardiff."
+organizerEmail: "info@devfest.cymru"
 organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "http://lviv.gdg.org.ua/"
+organizerLink: "http://devfest.cymru/"
 
 # Head
-metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
-twitterAccount: "@DevFest"
+metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, cardiff"
+twitterAccount: "@DevFestCardiff"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
@@ -43,12 +43,11 @@ c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- - {permalink: "/blog/", text: "Blog"}
- - {permalink: "/schedule/", text: "Schedule"}
- - {permalink: "/speakers/", text: "Speakers"}
+#  - {permalink: "/blog/", text: "Blog"}
+#  - {permalink: "/schedule/", text: "Schedule"}
+#  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Team"}
- - {permalink: "/logistics/", text: "Logistics"}
- - {permalink: "/hackathon/", text: "Hackathon"}
+#  - {permalink: "/logistics/", text: "Logistics"}
 bottomNavigationLinks:
  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
 rightNavigationButtons:
@@ -56,28 +55,28 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "GDG DevFest <typeout> 2014"
-eventDate: "September - November, 2014"
-typeoutTextValues: '"", "Season", "Ukraine", "Germany", "USA"'
+heroTitle: "DevFest <typeout> 2019"
+eventDate: "9th November 2019"
+typeoutTextValues: '"", "Cardiff", "Caerdydd"'
 typeoutFallback: "Season"
 heroButtons:
  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
- - {permalink: "/#tickets", text: "Buy tickets"}
+ - {permalink: "/#tickets", text: "Become a sponsor"}
 
 # About Block
-aboutTitle: "About GDG DevFest"
+aboutTitle: "About DevFest Cardiff"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
+ - {title: "Talks", image: "conference.jpg", text: "Awesome speakers talking talking about the latest and greatest technology" }
  - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
- - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
+# - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "350", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "48", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
- - {count: "20", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
- - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
+ - {count: "120", specialCharacter: "", info: "attendees", detail: "for the love of code"}
+ - {count: "30", specialCharacter: "", info: "sessions", detail: "learning and building"}
+ - {count: "15", specialCharacter: "", info: "hours", detail: "of talks and workshops"}
+ - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus breakout lounge"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
@@ -90,19 +89,19 @@ rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
 locationBlockTitle: "Location"
-eventLocationName: "Conference Hall"
-eventLocationLink: "http://cabinet.kinopalace.lviv.ua/showtimes/"
-eventStreetAddress: "22 Teatral'na St"
-eventAddressLocality: "Lviv"
-eventAddressLocalityRegion: "Lvivska"
-eventPostalCode: "79000"
-eventAddressCountry: "Ukraine"
-eventStartTime: "2014-10-25T10:00"
-eventDoorTime: "09:00"
-eventEndTime: "2014-10-25T20:00"
-eventPlaceCoordinates: "49.843237, 24.028751"
-mapCenterCoordinates: "49.842537, 24.025701"
-mapMobileCenterCoordinates: "49.841620, 24.029411"
+eventLocationName: "One Canal Parade"
+eventLocationLink: "https://cavc.ac.uk/en/about-cavc/sites-facilities/our-sites/site-landing-pages/cardiff"
+eventStreetAddress: "Dumballs Road"
+eventAddressLocality: "Cardiff"
+eventAddressLocalityRegion: "Caerdydd"
+eventPostalCode: "CF10 5BF"
+eventAddressCountry: "United Kingdom"
+eventStartTime: "2019-11-09T10:00"
+eventDoorTime: "09:30"
+eventEndTime: "2019-11-09T16:00"
+eventPlaceCoordinates: "51.4720327,-3.1758031"
+mapCenterCoordinates: "51.4720327,-3.1758031"
+mapMobileCenterCoordinates: "51.4720327,-3.1758031"
 
 # Venue Block
 venueBlockTitle: "Venue"
@@ -110,8 +109,8 @@ venueBigImage: "venue_0.jpg"
 venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
-venueTitle: "Kinopalace Cinema"
-venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
+venueTitle: "One Canal Parade"
+venueFeatures: ["3 workshop spaces with screens", "Lounge area with tea & coffee", "A short walk from Central Station"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
