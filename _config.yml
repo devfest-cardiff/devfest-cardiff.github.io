@@ -193,8 +193,8 @@ footerBlocks:
 
 # Blog
 blogTitle: "Latest news"
-blogCommentsEnabled: true
-discusShortName: "devfestua"
+blogCommentsEnabled: false
+discusShortName: "devfestcardiff"
 
 # Speakers List Block
 showSessions: true
