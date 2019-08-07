@@ -1,60 +1,55 @@
 - 
   id: 0
-  name: "Vitaliy"
-  surname: "Zasadnyy"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: VitaliyZasadnyy.jpg
+  name: ""
+  surname: "GDG Cardiff"
+  title: "DevFest Organiser"
+  thumbnailUrl: gdg-cardiff.png
   team: true
   ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
+    - {abbr: "DevFest", title: "DevFest Cardiff 2019"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
-    - {name: "twitter", link: "https://twitter.com/zasadnyy"}
-    - {name: "github", link: "https://github.com/zasadnyy"}
-    - {name: "site", link: "http://zasadnyy.com/"}
+    - {name: "site", link: "https://www.meetup.com/GDGCardiff/"}
 - 
   id: 1
-  name: "Oleh"
-  surname: "Zasadnyy"
-  title: "Designer and Web Developer"
-  thumbnailUrl: OlehZasadnyy.jpg
+  name: ""
+  surname: "AI Wales"
+  title: "DevFest Organiser"
+  thumbnailUrl: ai-wales.jpg
   team: true
   ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
+    - {abbr: "DevFest", title: "DevFest Cardiff 2019"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+OlehZasadnyy"}
-    - {name: "github", link: "https://github.com/ozasadnyy"}
+    - {name: "site", link: "https://www.meetup.com/AI-Wales/"}
 - 
   id: 2
-  name: "Ostap"
-  surname: "Andrusiv"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: OstapAndrusiv.jpg
+  name: ""
+  surname: "Cardiff Go"
+  title: "DevFest Organiser"
+  thumbnailUrl: cardiff-go.jpg
   team: true
   ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
+    - {abbr: "DevFest", title: "DevFest Cardiff 2019"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+OstapAndrusiv"}
-    - {name: "twitter", link: "https://twitter.com/p1f"}
-    - {name: "site", link: "http://andrusiv.com/"}
+    - {name: "site", link: "https://www.meetup.com/Cardiff-Go-Meetup/"}
 - 
   id: 4
-  name: "Dmytro"
-  surname: "Danylyk"
-  title: "Android Program Committee"
-  thumbnailUrl: DmytroDanylyk.jpg
-  subTeam: true
+  name: ""
+  surname: "Cloud Native Wales"
+  title: "DevFest Organiser"
+  thumbnailUrl: cloud-native.jpg
+  team: true
+  ribbon: 
+    - {abbr: "DevFest", title: "DevFest Cardiff 2019"}
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
+    - {name: "site", link: "https://www.meetup.com/Cloud-Native-Wales/"}
 - 
   id: 7
-  name: "Valentyn"
-  surname: "Shybanov"
-  title: "Web and Cloud Program Committee"
-  thumbnailUrl: ValentynShybanov.jpg
-  subTeam: true
+  name: ""
+  surname: "Rust and C++ Cardiff"
+  title: "DevFest Organiser"
+  thumbnailUrl: rust-c.jpg
+  team: true
+  ribbon: 
+    - {abbr: "DevFest", title: "DevFest Cardiff 2019"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+    - {name: "site", link: "https://www.meetup.com/rust-and-c-plus-plus-in-cardiff/"}

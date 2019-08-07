@@ -49,9 +49,9 @@ navigationLinks:
  - {permalink: "/team/", text: "Team"}
 #  - {permalink: "/logistics/", text: "Logistics"}
 bottomNavigationLinks:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "mailto:info@devfest.cymru?subject=I want to be involved", text: "Become a speaker"}
 rightNavigationButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "mailto:info@devfest.cymru?subject=I want to be involved", text: "Become a speaker"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -60,14 +60,15 @@ eventDate: "9th November 2019"
 typeoutTextValues: '"", "Cardiff", "Caerdydd"'
 typeoutFallback: "Cardiff"
 heroButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
- - {permalink: "/#tickets", text: "Become a sponsor"}
+ - {link: "mailto:info@devfest.cymru?subject=I want to be involved", text: "Become a speaker"}
+ - {link: "mailto:info@devfest.cymru?subject=Sponsorship", text: "Become a sponsor"}
 
 # About Block
 aboutTitle: "About DevFest Cardiff"
 aboutBlock:
- - {title: "Talks", image: "conference.jpg", text: "Awesome speakers talking talking about the latest and greatest technology" }
- - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
+ - {title: "Learning", image: "conference.jpg", text: "From beginner to expert.  A full-day of talks and hands-on workshops for everyone interested in development." }
+ - {title: "Community", image: "workshop.jpg", text: "Socialise, network and discover ways to get involved in Developer community programs and local groups" }
+ - {title: "Diversity", image: "hackathon.jpg", text: "Talks, and activities to promote diversity in the local tech community" }
 # - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
 
 # Statistic Block
@@ -188,7 +189,7 @@ footerBlocks:
  -
   title: "FAQ"
   links:
-   - {permalink: "/cod/", text: "Code of Conduct"}
+   - {link: "https://devfest.withgoogle.com/code-of-conduct", text: "Code of Conduct"}
 
 # Blog
 blogTitle: "Latest news"
@@ -200,7 +201,7 @@ showSessions: true
 
 # Team Block
 teamBlockTitle: "About us"
-aboutUs: "Details to follow"
+aboutUs: "DevFest Cardiff is a collaboration between GDG Cardiff and other Cardiff Tech Meetup groups."
 
 # Logistics Find Way Block
 findWayTitle: "Find your way here"
