@@ -10,9 +10,9 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "GDG Cardiff 2019"
+title: "DevFest Cardiff 2019"
 email: "info@devfest.cymru"
-description: "GDG DevFest is a set of events all around the world"
+description: "DevFest is a set of events all around the world"
 #baseurl: "/zeppelin"
 url: "https://devfest.cymru"
 permalink: "/blog/:title"
@@ -173,20 +173,18 @@ ticketsOffers:
 
 # Footer
 socialLinks:
- - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
- - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", icon: "twitter"}
- - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
+ - {link: "https://twitter.com/search?q=%23devfest", icon: "twitter"}
  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "http://gdg.org.ua", text: "GDG.org.ua"}
+ #  - {link: "http://gdg.org.ua", text: "GDG.org.ua"}
    - {link: "https://developers.google.com", text: "Google Developers"}
  -
   title: "Contacts"
   links:
-   - {link: "mailto:lviv@gdg.org.ua", text: "lviv@gdg.org.ua"}
+   - {link: "mailto:info@devfest.cymru", text: "info@devfest.cymru"}
  -
   title: "FAQ"
   links:
