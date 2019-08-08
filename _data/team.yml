@@ -1,0 +1,55 @@
+- 
+  id: 0
+  name: ""
+  surname: "GDG Cardiff"
+  title: "DevFest Organiser"
+  thumbnailUrl: gdg-cardiff.png
+  team: true
+  ribbon: 
+    - {abbr: "DevFest", title: "DevFest Cardiff 2019"}
+  social: 
+    - {name: "site", link: "https://www.meetup.com/GDGCardiff/"}
+- 
+  id: 1
+  name: ""
+  surname: "AI Wales"
+  title: "DevFest Organiser"
+  thumbnailUrl: ai-wales.jpg
+  team: true
+  ribbon: 
+    - {abbr: "DevFest", title: "DevFest Cardiff 2019"}
+  social: 
+    - {name: "site", link: "https://www.meetup.com/AI-Wales/"}
+- 
+  id: 2
+  name: ""
+  surname: "Cardiff Go"
+  title: "DevFest Organiser"
+  thumbnailUrl: cardiff-go.jpg
+  team: true
+  ribbon: 
+    - {abbr: "DevFest", title: "DevFest Cardiff 2019"}
+  social: 
+    - {name: "site", link: "https://www.meetup.com/Cardiff-Go-Meetup/"}
+- 
+  id: 4
+  name: ""
+  surname: "Cloud Native Wales"
+  title: "DevFest Organiser"
+  thumbnailUrl: cloud-native.jpg
+  team: true
+  ribbon: 
+    - {abbr: "DevFest", title: "DevFest Cardiff 2019"}
+  social: 
+    - {name: "site", link: "https://www.meetup.com/Cloud-Native-Wales/"}
+- 
+  id: 7
+  name: ""
+  surname: "Rust and C++ Cardiff"
+  title: "DevFest Organiser"
+  thumbnailUrl: rust-c.jpg
+  team: true
+  ribbon: 
+    - {abbr: "DevFest", title: "DevFest Cardiff 2019"}
+  social: 
+    - {name: "site", link: "https://www.meetup.com/rust-and-c-plus-plus-in-cardiff/"}

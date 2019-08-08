@@ -1,0 +1,249 @@
+# Plugins
+gems:
+- jekyll-sitemap
+safe: false
+
+# Build Settings
+markdown: kramdown
+permalink: pretty
+exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
+
+
+# Site Settings
+title: "DevFest Cardiff 2019"
+email: "info@devfest.cymru"
+description: "DevFest is a set of events all around the world"
+#baseurl: "/zeppelin"
+url: "https://devfest.cymru"
+permalink: "/blog/:title"
+googleAnalyticsTrackingId: "UA-43643469-5"
+googleAnalyticsSiteUrl: "devfest.cymru"
+siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
+
+# Organizer Info
+organizerName: "Cardiff Developer Meetups"
+organizerAlternateName: "Cardiff Developer Meetups"
+organizerDescription: "Geeks and developers who want to create a vibrant tech community in Cardiff."
+organizerEmail: "info@devfest.cymru"
+organizerLogo: "/img/seo/organizer-logo.png"
+organizerLink: "http://devfest.cymru/"
+
+# Head
+metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, cardiff"
+twitterAccount: "@DevFestCardiff"
+socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
+socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
+socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
+
+# Documents
+c4pUrl: "https://bit.ly/dfua-c4p"
+c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
+
+
+# Navigation
+navigationLinks:
+ - {permalink: "/", text: "Home"}
+#  - {permalink: "/blog/", text: "Blog"}
+#  - {permalink: "/schedule/", text: "Schedule"}
+#  - {permalink: "/speakers/", text: "Speakers"}
+ - {permalink: "/team/", text: "Team"}
+#  - {permalink: "/logistics/", text: "Logistics"}
+bottomNavigationLinks:
+ - {link: "mailto:info@devfest.cymru?subject=I want to be involved", text: "Become a speaker"}
+rightNavigationButtons:
+ - {link: "mailto:info@devfest.cymru?subject=I want to be involved", text: "Become a speaker"}
+
+# Hero Block
+heroImage: "hero.jpg"
+heroTitle: "DevFest <typeout>"
+eventDate: "9th November 2019"
+typeoutTextValues: '"", "Cardiff", "Caerdydd"'
+typeoutFallback: "Cardiff"
+heroButtons:
+ - {link: "mailto:info@devfest.cymru?subject=I want to be involved", text: "Become a speaker"}
+ - {link: "mailto:info@devfest.cymru?subject=Sponsorship", text: "Become a sponsor"}
+
+# About Block
+aboutTitle: "About DevFest Cardiff"
+aboutBlock:
+ - {title: "Learning", image: "conference.jpg", text: "From beginner to expert.  A full-day of talks and hands-on workshops for everyone interested in development." }
+ - {title: "Community", image: "workshop.jpg", text: "Socialise, network and discover ways to get involved in Developer community programs and local groups" }
+ - {title: "Diversity", image: "hackathon.jpg", text: "Talks, and activities to promote diversity in the local tech community" }
+# - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
+
+# Statistic Block
+statisticBlockImage: "statistic.jpg"
+statisticBlock:
+ - {count: "120", specialCharacter: "", info: "attendees", detail: "together for the love of code"}
+ - {count: "15", specialCharacter: "", info: "hours", detail: "of talks and workshops"}
+ - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus breakout lounge"}
+ - {count: "15", specialCharacter: "+", info: "sessions", detail: "for beginners and experts"}
+
+# Latest News Block
+latestNewsTitle: "Latest news"
+
+# Rockstar Speakers Block
+rockstarSpeakersImage: "rockstar-speakers.jpg"
+rockstarSpeakersCount: 4
+rockstarSpeakersTitle: "Rockstar speakers"
+rockstarSpeakersButtonText: "See all speakers"
+
+# Location Block
+locationBlockTitle: "Location"
+eventLocationName: "One Canal Parade"
+eventLocationLink: "https://cavc.ac.uk/en/about-cavc/sites-facilities/our-sites/site-landing-pages/cardiff"
+eventStreetAddress: "Dumballs Road"
+eventAddressLocality: "Cardiff"
+eventAddressLocalityRegion: "Caerdydd"
+eventPostalCode: "CF10 5BF"
+eventAddressCountry: "United Kingdom"
+eventStartTime: "2019-11-09T10:00"
+eventDoorTime: "09:30"
+eventEndTime: "2019-11-09T16:00"
+eventPlaceCoordinates: "51.4720327,-3.1758031"
+mapCenterCoordinates: "51.4720327,-3.1758031"
+mapMobileCenterCoordinates: "51.4720327,-3.1758031"
+
+# Venue Block
+venueBlockTitle: "Venue"
+venueBigImage: "venue_0.jpg"
+venueSmallImage1: "venue_1.jpg"
+venueSmallImage2: "venue_2.jpg"
+venueSmallImage3: "venue_3.jpg"
+venueTitle: "One Canal Parade"
+venueFeatures: ["Modern spaces for talks and workshops", "Lounge area with tea & coffee", "A short walk from Central Station"]
+
+# Tweets Feed Block
+tweetsFeedImage: "twitter-feed.jpg"
+tweetsFeedTitle: "What's Up?"
+twitterHashTag: "devfest"
+twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
+
+# Partners Block
+organizersTitle: "Organizers"
+partnersTitle: "Partners"
+partnersC4sponsorsButton: "Become a sponsor"
+
+# Subscribe Block
+subscribeImage: "subscribe.jpg"
+subscribeTitle: "Subscribe for updates"
+subscribeAction: "https://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
+subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
+
+# Tickets Block
+ticketsTitle: "Pricetable"
+ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
+ticketsOffers:
+ -
+  name: "Early Bird"
+  price: "350"
+  priceCurrency: "UAH"
+  ticketsNumber: "150"
+  ribbon: "-5%"
+  buyButtonLink: "http://dfua.ticketforevent.com/"
+  buyButtonText: "Buy Now"
+  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+  validFrom: "2014-08-25T10:00"
+  validThrough: "2014-09-30T23:59"
+ -
+  name: "Last Chance"
+  price: "450"
+  priceCurrency: "UAH"
+  ticketsNumber: "100"
+  ribbon: "-20%"
+  featured: true
+  buyButtonLink: "http://dfua.ticketforevent.com/"
+  buyButtonText: "Buy Now"
+  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+  validFrom: "2014-10-01T00:00"
+  validThrough: "2014-10-23T23:59"
+  disabled: true
+ -
+  name: "Student"
+  price: "200"
+  priceCurrency: "UAH"
+  ticketsNumber: "50"
+  buyButtonLink: "http://dfua.ticketforevent.com/"
+  buyButtonText: "Buy Now"
+  additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
+  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+  validFrom: "2014-08-20T10:00"
+  validThrough: "2014-10-23T23:59"
+  soldOut: true
+  soldOutText: "Sold Out"
+
+# Footer
+socialLinks:
+ - {link: "https://twitter.com/search?q=%23devfest", icon: "twitter"}
+ - {permalink: "/feed.xml", icon: "rss"}
+footerBlocks:
+ -
+  title: "Links"
+  links:
+ #  - {link: "http://gdg.org.ua", text: "GDG.org.ua"}
+   - {link: "https://developers.google.com", text: "Google Developers"}
+ -
+  title: "Contacts"
+  links:
+   - {link: "mailto:info@devfest.cymru", text: "info@devfest.cymru"}
+ -
+  title: "FAQ"
+  links:
+   - {link: "https://devfest.withgoogle.com/code-of-conduct", text: "Code of Conduct"}
+
+# Blog
+blogTitle: "Latest news"
+blogCommentsEnabled: false
+discusShortName: "devfestcardiff"
+
+# Speakers List Block
+showSessions: true
+
+# Team Block
+teamBlockTitle: "About us"
+aboutUs: "DevFest Cardiff is a collaboration between GDG Cardiff and other Cardiff Tech Meetup groups."
+
+# Logistics Find Way Block
+findWayTitle: "Find your way here"
+findWayDistance: "Distance"
+findWayDriving: "DRIVING"
+findWayWalking: "WALKING"
+findWayBicycling: "BICYCLING"
+findWayTransit: "TRANSIT"
+findWayFindFlight: "Find Flight"
+logisticsMapCenterCoordinates: "51.4720327,-3.1758031"
+logisticsMapMobileCenterCoordinates: "51.4720327,-3.1758031"
+logisticsMapAutoDirections: false
+
+# Logistics Direction Details Block
+directionDetailsImage: "direction-details.jpg"
+directionDetailsTitle: "Get around Lviv"
+directionDetailsCards:
+ - {title: "From the Airport", information: 'Airport is right at the city border. It is easily reachable by car, public transport or taxi. More information is available at <a href="http://lwo.aero/en/transport">airport website</a>.'}
+ - {title: "Public Transit", information: 'Google Transit is available in Lviv. So you can find your way in Google Maps. Moreover, you can download any of the offline public transit apps available for Lviv.'}
+ - {title: "Hotels", information: 'Lviv has lots of great hotels and hostels. More information will be available later.'}
+directionDetailsWideCards:
+ -
+  title: "Questions?"
+  subCards:
+   -
+    title: "Hotels"
+    links:
+     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
+     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
+     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
+     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
+   -
+    title: "Registration"
+    links:
+     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
+     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
+     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
+     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
+   -
+    title: "Attendance Details"
+    links:
+     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
+     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
+     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
+     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
