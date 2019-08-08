@@ -12,7 +12,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 # Site Settings
 title: "DevFest Cardiff 2019"
 email: "info@devfest.cymru"
-description: "DevFest is a set of events all around the world"
+description: "DevFest Cardiff is a festival for everyone interested in developing and coding."
 #baseurl: "/zeppelin"
 url: "https://devfest.cymru"
 permalink: "/blog/:title"
