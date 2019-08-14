@@ -49,9 +49,9 @@ navigationLinks:
  - {permalink: "/team/", text: "Team"}
 #  - {permalink: "/logistics/", text: "Logistics"}
 bottomNavigationLinks:
- - {link: "mailto:info@devfest.cymru?subject=I want to be involved", text: "Become a speaker"}
+ - {link: "https://sessionize.com/devfest-cardiff-2019/", text: "Become a speaker"}
 rightNavigationButtons:
- - {link: "mailto:info@devfest.cymru?subject=I want to be involved", text: "Become a speaker"}
+ - {link: "https://sessionize.com/devfest-cardiff-2019/", text: "Become a speaker"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -60,7 +60,7 @@ eventDate: "9th November 2019"
 typeoutTextValues: '"", "Cardiff", "Caerdydd"'
 typeoutFallback: "Cardiff"
 heroButtons:
- - {link: "mailto:info@devfest.cymru?subject=I want to be involved", text: "Become a speaker"}
+ - {link: "https://sessionize.com/devfest-cardiff-2019/", text: "Become a speaker"}
  - {link: "mailto:info@devfest.cymru?subject=Sponsorship", text: "Become a sponsor"}
 
 # About Block
