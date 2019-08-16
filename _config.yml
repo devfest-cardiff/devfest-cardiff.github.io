@@ -1,5 +1,5 @@
 # Plugins
-gems:
+plugins:
 - jekyll-sitemap
 safe: false
 
@@ -36,8 +36,8 @@ socialImageSrcTwitter: "/img/seo/organizer-logo.png"
 socialImageSrcFacebook: "/img/seo/organizer-logo.png"
 
 # Documents
-c4pUrl: "https://bit.ly/dfua-c4p"
-c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
+c4pUrl: "https://sessionize.com/devfest-cardiff-2019/"
+c4sponsorsUrl: "mailto:info@devfest.cymru?subject=Sponsorship"
 
 
 # Navigation
@@ -117,10 +117,10 @@ venueFeatures: ["Modern spaces for talks and workshops", "Lounge area with tea &
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
 twitterHashTag: "devfest"
-twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
+twitterFeed: "http://example.com/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
 
 # Partners Block
-organizersTitle: "Organizers"
+sponsorsTitle: "Sponsors"
 partnersTitle: "Partners"
 partnersC4sponsorsButton: "Become a sponsor"
 
@@ -174,7 +174,7 @@ ticketsOffers:
 
 # Footer
 socialLinks:
- - {link: "https://twitter.com/search?q=%23devfest", icon: "twitter"}
+ - {link: "https://twitter.com/devfestcardiff", icon: "twitter"}
  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -

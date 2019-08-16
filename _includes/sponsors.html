@@ -2,20 +2,20 @@
 <section id="partners" class="partners">
     <div class="content-wrapper">
         <div class="col-lg-10 col-lg-offset-1">
-            <h3>{{ site.organizersTitle }}</h3>
-            {% for organizer in site.data.organizers %}
-            <h5>{{ organizer.group }}</h5>
+            {% for sponsor in site.data.sponsors %}
+            <h5>{{ sponsor.group }}</h5>
             <ul class="list-inline">
-                {% for element in organizer.elements %}
+                {% for element in sponsor.elements %}
                 <li {% if element.width != null %}style="width: {{ element.width }};"{% endif %}>
                     <a href="{{ element.link }}" target="_blank">
-                        <img src="{{ site.baseurl }}/img/organizers/{{ element.imageUrl }}" title="{{ element.description }}" alt="{{ element.name }}">
+                        <img src="{{ site.baseurl }}/img/sponsors/{{ element.imageUrl }}" title="{{ element.description }}" alt="{{ element.name }}">
                     </a>
                 </li>
                 {% endfor %}
-            </ul>
+            </ul>            
             {% endfor %}
-            <h3>{{ site.partnersTitle }}</h3>
+            <a href="{{ site.c4sponsorsUrl | prepend: site.baseurl }}" class="btn btn-primary waves-effect waves-button waves-light waves-float">{{ site.partnersC4sponsorsButton }}</a>
+
             {% for partner in site.data.partners %}
             <h5>{{ partner.group }}</h5>
             <ul class="list-inline">
@@ -27,8 +27,7 @@
                 </li>
                 {% endfor %}
             </ul>
-            {% endfor %}
-            <a href="{{ site.c4sponsorsUrl | prepend: site.baseurl }}" class="btn btn-primary waves-effect waves-button waves-light waves-float">{{ site.partnersC4sponsorsButton }}</a>
+            {% endfor %}            
         </div>
     </div> 
 </section>
