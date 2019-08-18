@@ -26,7 +26,7 @@ organizerAlternateName: "Cardiff Developer Meetups"
 organizerDescription: "Geeks and developers who want to create a vibrant tech community in Cardiff."
 organizerEmail: "info@devfest.cymru"
 organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "http://devfest.cymru/"
+organizerLink: "https://devfest.cymru/"
 
 # Head
 metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, cardiff"
@@ -60,8 +60,7 @@ eventDate: "9th November 2019"
 typeoutTextValues: '"", "Cardiff", "Caerdydd"'
 typeoutFallback: "Cardiff"
 heroButtons:
- - {link: "https://sessionize.com/devfest-cardiff-2019/", text: "Become a speaker"}
- - {link: "mailto:info@devfest.cymru?subject=Sponsorship", text: "Become a sponsor"}
+ - {link: "https://sessionize.com/devfest-cardiff-2019/", text: "Call for Speakers now open."}
 
 # About Block
 aboutTitle: "About DevFest Cardiff"
@@ -117,7 +116,7 @@ venueFeatures: ["Modern spaces for talks and workshops", "Lounge area with tea &
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
 twitterHashTag: "devfest"
-twitterFeed: "http://example.com/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
+#twitterFeed: "http://example.com/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
 
 # Partners Block
 sponsorsTitle: "Sponsors"
