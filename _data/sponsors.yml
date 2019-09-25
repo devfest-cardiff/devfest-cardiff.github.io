@@ -7,3 +7,4 @@
   elements: 
     - {name: "Postmark", description: "With lightning fast delivery, affordable monthly pricing, and 45-days of email history for quick and easy troubleshooting, they're a great email provider for all of your web projects.", link: "https://postmarkapp.com/ai-wales", imageUrl: "postmark.svg"}
     - {name: "Nagra Media", description: "The world's largest media and communications companies trust NAGRA to secure and enhance their video services on the path to digital transformation with innovative solutions that connect people to the content they love.", link: "https://dtv.nagra.com", imageUrl: "nagra.jpg"}
+    - {name: "Alert Logic", description: "Alert Logic seamlessly connects an award-winning security platform, cutting-edge threat intelligence, and expert defenders to provide the best security and peace of mind for your business 24/7", link: "https://www.alertlogic.com", imageUrl: "alert-logic.jpg"}
