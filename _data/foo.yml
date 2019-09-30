@@ -1,0 +1,195 @@
+-
+  id: 1
+  name: "Andrew"
+  surname: "Shankie"
+  company: "JavaScript developer at Proper Design"
+  bio: "Andrew is usually called Shankie, likes JavaScript, and hates writing biographies."
+  thumbnailUrl: "https://sessionize.com/image?f=ef3a8b563176fc3bf1f5ea4b63d81a4a,200,200,True,False,499aaed7-6a29-4365-ab24-51597747fa50.jpg"
+  social:
+  - { name: "twitter", link: "https://twitter.com/shankie_san"}
+  - { name: "linkedin", link: "https://www.linkedin.com/in/andrewshankie/"}
+-
+  id: 2
+  name: "Cai"
+  surname: "Gwinnutt"
+  company: "QOOLR, Founder"
+  bio: "Cai is a software developer, product owner and consultant. He worked at the British Medical Journal, building an adaptive learning platform and then at Amplyfi putting together a world class team of software developers. Most recently he's been helping startups with their AI and Cloud strategies."
+  thumbnailUrl: "https://sessionize.com/image?f=6614d2ddd2c30d439cdb771d5bc1de8c,200,200,True,False,e5-c90f-4844-96de-e06f51a5ef0c.8ff14841-1225-4cac-ac36-3ebc6b5d4916.jpg"
+  social:
+  - { name: "twitter", link: ""}
+  - { name: "linkedin", link: "http://linkedin.com/in/mrcai/"}
+-
+  id: 3
+  name: "Chris"
+  surname: "Jackson"
+  company: "Purveyor of poor paternal puns"
+  bio: "Chris is a software developer based in Cardiff who enjoys programming now almost as much as when he first sat down at a ZX Spectrum at the age of 8. Almost three decades later, he shares his passion for learning with anyone who’s prepared to listen, and occasionally a few who aren’t. He brings experience from the public, private and third sectors, and the worlds of politics, sport, music and transport. When he’s not working, he’s usually either at a community event or enjoying a good film. He’s still bitter about that time Bonnie Tyler told him she wasn’t going to make a comeback before going on to release another four albums."
+  thumbnailUrl: ""
+  social:
+  - { name: "twitter", link: ""}
+  - { name: "linkedin", link: ""}
+-
+  id: 4
+  name: "Dick"
+  surname: "Tonyboy"
+  company: "Initiator TTN Cardiff"
+  bio: "Local hacker."
+  thumbnailUrl: "https://sessionize.com/image?f=bd5e1f5d77b175a0f02723d5357de59c,200,200,True,False,87314020-2b42-4510-99c0-a89e63b9632f.jpg"
+  social:
+  - { name: "twitter", link: "https://twitter.com/things_wales"}
+  - { name: "linkedin", link: "https://uk.linkedin.com/in/richard-wenner"}
+-
+  id: 5
+  name: "Doug"
+  surname: "Sillars"
+  company: "Freelance Performance Expert"
+  bio: "Doug is a leading mobile performance developer advocate and evangelist.  Doug has worked with thousands of developers around the world, helping them improve the speed, battery life and customer satisfaction of their mobile applications (both native and web). The author of O'Reilly's 'High Performance Android Apps,' he has spoken at conferences around the world on mobile performance.  
+He is currently freelancing, and traveling with his family of 6 (plus the dog!) as a digital nomad in Europe. "
+  thumbnailUrl: "https://sessionize.com/image?f=b3651c7525bdd457e263219aad7d49d9,200,200,True,False,ceb5904b-f3fd-440c-abb9-088970e01977.jpg"
+  rockstar : true
+  social:
+  - { name: "twitter", link: "https://twitter.com/dougsillars"}
+  - { name: "linkedin", link: "https://www.linkedin.com/in/dougsillars/"}
+-
+  id: 6
+  name: "Jack"
+  surname: "Davies"
+  company: "Researcher at nChain"
+  bio: "A researcher in blockchain technology at nChain, focused on scalability solutions and development of data-oriented blockchain use cases."
+  thumbnailUrl: "https://sessionize.com/image?f=910ada43dcd0ecc948e3f51bcaf0c250,200,200,True,False,b7-a8eb-4512-b546-2b4c38b29613.207d1c03-07e6-4a4f-8a4a-292ba6df6c36.jpeg"
+  social:
+  - { name: "twitter", link: "https://twitter.com/JackD004"}
+  - { name: "linkedin", link: "http://linkedin.com/in/jack-davies-450b83128"}
+-
+  id: 7
+  name: "Joe"
+  surname: "Dragovich"
+  company: "Engineer at Alert Logic"
+  bio: "Joe Dragovich is a self-taught Javascript developer that has found himself in the world of back-end engineering with Erlang."
+  thumbnailUrl: "https://sessionize.com/image?f=adfeb86714f134ab5de01663f054929c,200,200,True,False,ff-3ae3-478d-b107-ca987c7adfa7.a4df675d-f0e6-47c9-8a6a-e7fd59440aa1.jpg"
+  social:
+  - { name: "twitter", link: ""}
+  - { name: "linkedin", link: "https://www.linkedin.com/in/joseph-dragovich-8034428"}
+-
+  id: 8
+  name: "John"
+  surname: "Gregory"
+  company: "Tech Lead at the Office for National Statistics"
+  bio: "Artist, musician, software engineer and proud Gopher; currently working as a Tech Lead at the Office for National Statistics. 
+A keen evangelist for Go, he also co-runs the Cardiff Go meet up, and is always eager to help new Gophers on their journey."
+  thumbnailUrl: "https://sessionize.com/image?f=7477d3bcd93c4f73c0915f9ee8b754a0,200,200,True,False,d4dc8c3b-aa65-4713-8ea2-319599908c55.jpg"
+  social:
+  - { name: "twitter", link: "https://twitter.com/n3crophonic"}
+  - { name: "linkedin", link: "https://www.linkedin.com/in/john-gregory-87092a9/"}
+-
+  id: 9
+  name: "Juantomas"
+  surname: "Garcia"
+  company: "Sngular, Chief Envisioning Officer"
+  bio: "Chief Envisioner Officer at Sngular
+Google Developer Expert for cloud 
+Author the Spanish free software book 'La Pastilla Roja'
+Organizer of Machine Learning Spain and GDG cloud Madrid meetups.
+Former President of Hispalinux (Spanish Linux Local User Group) 
+Team leader: “AbadIA” the AI that will learn to solve the abbey of crime.
+International speaker with more than 300 talks"
+  rockstar : true
+  thumbnailUrl: "https://sessionize.com/image?f=10b4832d9220dc667825b3ba5164576d,200,200,True,False,6a6e7e47-c727-4f18-acc7-c89fee3b4881.jpg"
+  social:
+  - { name: "twitter", link: "https://twitter.com/juantomas"}
+  - { name: "linkedin", link: "https://www.linkedin.com/in/juantomasgarcia/"}
+-
+  id: 10
+  name: "Kübra"
+  surname: "Harmankaya"
+  company: "Contract Android Developer"
+  bio: "Kubra started to develop Android apps with Eclipse in 2013. She is a Google Developer Groups and Women Techmakers Lead since 2014. She is in love with Kotlin and Android Studio. She established her own limited company in London in 2016. So far she contributed to the apps like FC Barcelona, FFA, British Council and Researcher.."
+  thumbnailUrl: "https://sessionize.com/image?f=bc3f455187c6af591a86c9e040386b12,200,200,True,False,15-1590-4e7e-8e6e-477f684b39f7.a18bf47b-2881-43d2-bfe5-8b6e551010db.jpg"
+  rockstar : true
+  social:
+  - { name: "twitter", link: "https://twitter.com/kbrhkaya"}
+  - { name: "linkedin", link: "https://www.linkedin.com/in/kubraharmankaya/"}
+-
+  id: 11
+  name: "Luis"
+  surname: "Espinosa Anke"
+  company: "Lecturer @ Cardiff University"
+  bio: "I received my PhD in 2017 from Pompeu Fabra University (Barcelona), and I am currently a lecturer in the School of Computer Science and Informatics in Cardiff University. I am interested in NLP and my research focuses on word-level semantics."
+  thumbnailUrl: "https://sessionize.com/image?f=75bebefa0248ca42c779f557935d02e2,200,200,True,False,0c-496f-4dbb-ad7e-8910ccf0182f.fafe2154-347d-47ef-83e6-3318f1d470ff.jpg"
+  social:
+  - { name: "twitter", link: "http://twitter.com/luisanke"}
+  - { name: "linkedin", link: "https://www.linkedin.com/in/luis-espinosa-anke-b4823921/"}
+-
+  id: 12
+  name: "Matthias"
+  surname: "Baetens"
+  company: "Data Science Researcher at Arabesque / GDE for Cloud"
+  bio: "Matthias is a software engineer passionate about data; how to process it, analyse it, gain insights, and leverage it in the real world. Over the first years of his career he has built expertise in the big data stack of Google Cloud Platform. He holds a master in Computer Science Engineering and a master in Marketing Analytics. Matthias is currently based in London where he co-founded the Apache Beam meetup."
+  thumbnailUrl: "https://sessionize.com/image?f=08c45861a13222894c5b2282128f8887,200,200,True,False,c0-cff5-4639-a0cb-91b105522129.4edf81bd-c158-4195-9697-1287b4dd5e66.jpg"
+  social:
+  - { name: "twitter", link: "https://twitter.com/matthiasbaetens"}
+  - { name: "linkedin", link: "https://www.linkedin.com/in/matthiasbaetens/"}
+-
+  id: 13
+  name: "Michał"
+  surname: "Brzeziński"
+  company: "Specialist Engineer at Google"
+  bio: "I'm a Specialist Engineer at Google, where I help others with Firebase, especially at the edge of web and apps. I like explaining complex technical concepts to my two cats."
+  thumbnailUrl: "https://sessionize.com/image?f=42fa0e5fd9f7dab06b47095d246a7038,200,200,True,False,71-c9ef-4222-a4f6-982733253223.c3177771-f9c3-478b-b08d-79199437c149.png"
+  rockstar : true
+  social:
+
+-
+  id: 14
+  name: "Peter"
+  surname: "Perlepes"
+  company: "Lead Frontline Engineer @ Welcome Pickups"
+  bio: "Petros combines a strong Computer Science background with deep understanding of Software Craftsmanship, Web Analytics and Optimization. He has worked as a software engineer and also as a web analytics consultant on enterprise analytics projects in a variety of sectors including banking, e-commerce, travel and many more. Aside from his day to day job, Petros has been working closely with top software publication companies ,like Manning and The Pragmatic Bookshelf, as a Technical Development Editor and Technical Proofer. From these projects he has been exposed to a broad spectrum of technologies ranging from Node.js, Docker and Kubernetes to Apache Kafka, Apache Spark and Ruby On Rails.
+Now his daily schedule at Welcome Pickups is tightly connected with innovation, new technologies, optimizations and making sure front-end code is as close to excellence as possible."
+  thumbnailUrl: "https://sessionize.com/image?f=953cdbcc9ed0ebb4c59194dd43d6f181,200,200,True,False,28-d625-447b-af48-0e0b10a35243.1513590d-81c2-488a-9589-26cbe1533eed.jpg"
+  social:
+  - { name: "twitter", link: "https://twitter.com/IgneelJ"}
+  - { name: "linkedin", link: ""}
+-
+  id: 15
+  name: "Rob"
+  surname: "Allen"
+  company: "19FT"
+  bio: "Rob Allen is a software consultant and developer with many years experience in a variety of interesting languages. He's particularly interested in APIs and the ecosystem around them along and contributes to Apache OpenWhisk, rst2pdf & Slim Framework along with other open source projects. Rob is a published author and based in the UK where he runs Nineteen Feet Limited, focussing on API development, training and consultancy. In his spare time, Rob blogs at akrabat.com and can often be seen with a camera in his hand."
+  thumbnailUrl: "https://sessionize.com/image?f=b756cf10d135ae80c3709a89d22a7e65,200,200,True,False,75-6745-448e-876a-8ed7e7c0d086.a635cc1d-6e1f-4710-b69a-860dfdba339b.jpg"
+  social:
+  - { name: "twitter", link: "https://twitter.com/akrabat"}
+  - { name: "linkedin", link: "https://www.linkedin.com/in/akrabat/"}
+-
+  id: 16
+  name: "Sarah"
+  surname: "Pantry"
+  company: "Developer and dev hiring manager on the VIP team at Automattic"
+  bio: "Coming from a self-taught background, Sarah got her first break into commercial development at a large London ISP when the dev manager found out everyone was playing an online PHP game she had co-written. After that, she worked as a developer or dev manager at several agencies, developing sites for FTSE 250 clients, developing a love of WordPress, and working with Symfony.
+Now, as a developer on the WordPress.com VIP team at Automattic, she is responsible for looking after sites for many well-known global brands, as well as developer hiring for the team.
+Outside the technical world, Sarah is a big fan of both beer and homebrewing. She is a qualified beer judge and enjoys teaching people about beer and brewing."
+  thumbnailUrl: "https://sessionize.com/image?f=5340e85420a7e001de0805eb8343625a,200,200,True,False,d9-8585-48a1-9b48-846da9413979.84ef1598-e6b7-4718-a1d1-cdc158d120b6.jpg"
+  social:
+  - { name: "twitter", link: "https://twitter.com/anigeluk"}
+  - { name: "linkedin", link: "https://www.linkedin.com/in/anigeluk/"}
+-
+  id: 17
+  name: "Stuart"
+  surname: "Herbert"
+  company: "Chief Software Archaeologist @ganbarodigital"
+  bio: "Stuart Herbert is an industry and open-source veteran, with nearly 25 years of commercial experience on projects for companies including Vodafone, Hewlett Packard, Orange (now EE), DataSift, Her Majesty's Government and many more. He is a co-author of the official Zend Certification Study Guide for PHP 4, and a regular tech speaker at user groups and conferences. He specialises in designing and delivering software that works, as founder and Chief Software Archaeologist of Ganbaro Digital Ltd.
+You can see more of Stuart's talks up on YouTube: https://www.youtube.com/channel/UCT5-AlldW9WPb4MH20J1CYA/featured"
+  thumbnailUrl: "https://sessionize.com/image?f=6d6ea1b91a4545ad366dca254bd4b38b,200,200,True,False,a6-5152-49ab-96e9-b01ef862e3cb.ad3b7a94-4d1b-4dda-a4af-b63853d09566.jpg"
+  social:
+  - { name: "twitter", link: "https://twitter.com/stuherbert"}
+  - { name: "linkedin", link: "https://www.linkedin.com/in/stuartherbert/"}
+-
+  id: 18
+  name: "Viacheslav"
+  surname: "Burenkov"
+  company: "Data Scientist"
+  bio: "Viacheslav Burenkov is currently employed as a Data Scientist for a FTSE100 company. He is an avid machine learning enthusiast, with a background in quantum physics (PhD, University of Toronto, 2015)."
+  thumbnailUrl: "https://sessionize.com/image?f=93ab77beabbad4f632373e7c27f37a57,200,200,True,False,ca-b6b8-430a-9e4e-af15623cc331.fd6b60ba-1fa8-4464-ba17-6acbb8f6c589.jpg"
+  social:
+  - { name: "twitter", link: "https://twitter.com/"}
+  - { name: "linkedin", link: "https://www.linkedin.com/"}

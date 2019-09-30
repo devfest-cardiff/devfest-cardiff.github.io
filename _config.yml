@@ -84,7 +84,7 @@ latestNewsTitle: "Latest news"
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
 rockstarSpeakersCount: 4
-rockstarSpeakersTitle: "Rockstar speakers"
+rockstarSpeakersTitle: "Our Speakers"
 rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
@@ -196,7 +196,7 @@ blogCommentsEnabled: false
 discusShortName: "devfestcardiff"
 
 # Speakers List Block
-showSessions: true
+showSessions: false
 
 # Team Block
 teamBlockTitle: "About us"
