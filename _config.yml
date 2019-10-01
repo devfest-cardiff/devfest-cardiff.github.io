@@ -65,9 +65,9 @@ heroButtons:
 # About Block
 aboutTitle: "About DevFest Cardiff"
 aboutBlock:
- - {title: "Learning", image: "conference.jpg", text: "From beginner to expert.  A full-day of talks and hands-on workshops for everyone interested in development." }
- - {title: "Community", image: "workshop.jpg", text: "Socialise, network and discover ways to get involved in Developer community programs and local groups" }
- - {title: "Diversity", image: "hackathon.jpg", text: "Talks, and activities to promote diversity in the local tech community" }
+ - {title: "Learning", image: "conference.jpg", text: "A full day of talks and hands-on labs workshops for beginners and experts - anyone interested in development!" }
+ - {title: "Community", image: "workshop.jpg", text: "Space to socialise, network and get more involved in Developer community programs and local groups" }
+ - {title: "Diversity", image: "hackathon.jpg", text: "An event for everybody with activities to promote diversity in the local tech community" }
 # - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
 
 # Statistic Block
