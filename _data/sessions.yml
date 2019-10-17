@@ -1,59 +1,132 @@
 -
-  id: 307
-  title: "Coffee Break"
-  place: "Hall"
-  service: true
-  description: "The best time to talk with speakers and attendees"
+  id: 1
+  title: "AbadIA: How to build an AI from zero to learn to play and solve a tough game"
+  speakers: [1]
+  subtype: AI
+  description: 
 -
-  id: 503
-  title: "Lunch Break"
-  place: "Dining room"
-  service: true
+  id: 2
+  title: "Stop Stalling: Thoughtfully Adding Video Content on the Web"
+  speakers: [2]
+  subtype: Web
+  description: 
 -
-  id: 001
-  title: "Material design: Visual style and imagery"
-  description: "This session will reveal the invisible structures behind the material design system. Designers will show how to use the new color systems, typographic strategies, and the underlying grids that hold it together. They will show how imagery and the new framework material rendering can make apps more interesting and communicate more quickly."
-  subtype: workshop
-  speakers: [3, 6]
-  language: en
-  complexity: "Intermediate"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  id: 3
+  title: "Building an ARt Gallery in the Browser"
+  speakers: [2]
+  subtype: Mobile
+  description: 
 -
-  id: 002
-  title: "Building Cloud-powered wearable Apps"
-  description: "I will speak and show how to:<br>- Respond to touch events in your views with touch feedback animations.<br>- Hide and show views with reveal effect animations.<br>- Switch between activities with custom activity transition animations.<br>- Create more natural animations with curved motion.<br>- Animate changes in one or more view properties with view state change animations.<br>- Create icon morphing transition"
-  subtype: presentation
-  speakers: [4, 5]
-  language: en
-  complexity: "Intermediate" 
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  id: 4
+  title: "What I Learned from Major Sports Brands (Android + Kotlin)"
+  speakers: [3]
+  subtype: Mobile
+  description: 
 -
-  id: 003
-  title: "Android L Animation"
-  description: "More than ever before, developing for global audience is a necessity than a luxury in today's world. Are you ready ... where to start? what does it entail? how do I do it? how to promote in local markets? This talk will address above questions for android, chrome and web developers. In our journey of the where, what and how, we will take an in-depth look at various internationalization and localization tools & strategies available to you."
-  subtype: presentation
+  id: 5
+  title: "From Deep Links to Dynamic Links - how to connect your app with web"
   speakers: [4]
-  language: en
-  complexity: "Intermediate" 
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  subtype: Web
+  description: 
 -
-  id: 004
-  title: "Polymer: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-  subtype: keynote
+  id: 6
+  title: "Large scale streaming analytics with Apache Beam"
+  speakers: [5]
+  subtype: Cloud
+  description: 
+-
+  id: 7
+  title: "Creating Portable Shell Scripts With Golang and Scriptish"
   speakers: [6]
-  language: uk
-  complexity: "Beginner"
-  presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  subtype: Languages
+  description: 
 -
-  id: 005
-  title: "Test: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-  subtype: keynote
+  id: 8
+  title: "Starting Small: Putting Containers Live With K3S"
+  speakers: [6]
+  subtype: Cloud
+  description: 
+-
+  id: 9
+  title: "XGBoost: from theory to practice"
   speakers: [7]
-  language: en
-  complexity: "Expert"
-  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  subtype: AI
+  description: 
+-
+  id: 10
+  title: "The Serverless Application"
+  speakers: [8]
+  subtype: Cloud
+  description: 
+-
+  id: 11
+  title: "Blockchain as a back-end"
+  speakers: [9]
+  subtype: Tooling
+  description: 
+-
+  id: 12
+  title: "Fine tuning"
+  speakers: [10]
+  subtype: AI
+  description: 
+-
+  id: 13
+  title: "Prototyping user interfaces using Firebase and Coda"
+  speakers: [11]
+  subtype: Cloud
+  description: 
+-
+  id: 14
+  title: "Learning Relation Embeddings for NLP"
+  speakers: [12]
+  subtype: AI
+  description: 
+-
+  id: 15
+  title: "User-Driven web performance"
+  speakers: [13]
+  subtype: Tooling
+  description: 
+-
+  id: 16
+  title: "Experimentation and A/B tests with Google Optimize"
+  speakers: [13]
+  subtype: Tooling
+  description: 
+-
+  id: 17
+  title: "Learn You Some Erlang For a Great Conference"
+  speakers: [14]
+  subtype: Languages
+  description: 
+-
+  id: 18
+  title: "Zero to Gopher"
+  speakers: [15]
+  subtype: Languages
+  description: 
+-
+  id: 19
+  title: "Introduction to Go webservices"
+  speakers: [15]
+  subtype: Languages
+  description: 
+-
+  id: 20
+  title: "Helicopters, Eels, and Scratched Tobacconists: Notes on a truly worldwide Web"
+  speakers: [16]
+  subtype: Web
+  description: 
+-
+  id: 21
+  title: "The Things Network"
+  speakers: [17]
+  subtype: Mobile
+  description: 
+-
+  id: 22
+  title: "Getting the best from code review"
+  speakers: [18]
+  subtype: Languages
+  description: 

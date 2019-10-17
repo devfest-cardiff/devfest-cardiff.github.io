@@ -16,7 +16,7 @@
                 padding-left: 1em;
             }
             h2, .position {
-                transform: translateY(-30px);
+                transform: translateY(-20px);
             }
             .position {
                 line-height: 1;
@@ -56,8 +56,8 @@
         position: absolute;
         bottom: 0;
         width: 100%;
-        height: 50%;
-        padding: 32px 16px;
+        height: 70%;
+        padding: 0 16px;
         text-transform: uppercase;
         color: #fff;
         h2, p {
@@ -100,7 +100,7 @@
         background: rgba(0, 0, 0, 0);
     }
     .lily-head {
-        height: 200px;
+        height: 100px;
     }
     .lily-bottom {
         clear: both;
