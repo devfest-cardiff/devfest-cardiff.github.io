@@ -1,14 +1,15 @@
 $figcaption-color: #3c4a50;
 .zoe-effect {
     margin-bottom: 26px;
-    height: 250px;
+    height: 220px;
     cursor: pointer;
     transition: $base-transition;
     box-shadow: 0 1px 7px rgba(0, 0, 0, .06), 0 1px 3px rgba(0, 0, 0, .15);
     &:hover {
         box-shadow: 0 1px 7px rgba(0, 0, 0, .06), 0 1px 3px rgba(0, 0, 0, .35);
         figure {
-            background-position: center left;
+            background-position: top left;
+            background-repeat: no-repeat;
             -webkit-background-size: 105%;
             background-size: 105%;
             .overlay {
