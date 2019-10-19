@@ -3,130 +3,173 @@
   title: "AbadIA: How to build an AI from zero to learn to play and solve a tough game"
   speakers: [1]
   subtype: AI
-  description: 
+  description: "La Abadía del Crimen is an 8-bit computer game and a perfect challenge for AI (it requires about 10^1000 moves to solve it!). 
+  Learn about starting an AI project from zero, We'll look at building a solution using Deep Neural Networks and Monte Carlo Tree Search, and cover the basics of Reinforcement Learning.  
+We will see how to start an AI project from zero: defining the objectives, creating the architecture, building the game interfaces,  massive data pipelines,  defining model strategies, how to parallelize everything, etc."
 -
   id: 2
   title: "Stop Stalling: Thoughtfully Adding Video Content on the Web"
   speakers: [2]
   subtype: Web
-  description: 
+  description: "Adding a video can be as easy as adding a video tag and pasting in the source.  But will it playback well?  For everyone?  Even your users on older phones, still on 3G?
+In this workshop, we'll walk through thoughtful approaches to adding video - looking at available codecs, compression, streaming vs. full videos, and then the actual steps to adding video to the page.  You'll leave with the knowledge and the tools you'll need to deliver video that plays fast, stalls infrequently and delights all of your users."
 -
   id: 3
   title: "Building an ARt Gallery in the Browser"
   speakers: [2]
   subtype: Mobile
-  description: 
+  description: "
+  The world of virtual reality allows us to build new 3D interactive spaces that we can fill with anything we want - like the art of the great Renaissance masters. More into Cubism? With a quick click - now the gallery is full of a completely different genre. With new AR features, we can actually build the gallery in our own space - and just as easily swap out the art - all in our browser!
+In this talk, we’ll walk through the steps to build a virtual ARt gallery, with web technology available today, but also take a peek at the new WebXR technology that is coming to our browsers soon!"
 -
   id: 4
-  title: "What I Learned from Major Sports Brands (Android + Kotlin)"
+  title: "WHAT I LEARNED FROM MAJOR SPORTS BRANDS?"
   speakers: [3]
   subtype: Mobile
-  description: 
+  description: "If you are new to Kotlin, this is a great talk for you. Kubra will share her experiences why we should convert Android applications into modern Kotlin, how to start converting a Java project and best Kotlin practices. "
 -
   id: 5
   title: "From Deep Links to Dynamic Links - how to connect your app with web"
   speakers: [4]
   subtype: Web
-  description: 
+  description: "What are deep links, app links, universal links and why you should care (hint: money). When to use them and when you need more advanced solutions like Firebase Dynamic Links. All of that sprinkled with marketing context and jargon to impress your friends and family."
 -
   id: 6
   title: "Large scale streaming analytics with Apache Beam"
   speakers: [5]
   subtype: Cloud
-  description: 
+  description: "In this session, we will present why and how Sky moved from an on-premise, batch-focused Hadoop based analytical system, to a streaming-oriented analytics pipeline hosted in a cloud environment utilising Apache Beam.
+ 
+We will explain why capturing all user interaction data is important, and how it is part of Sky’s renewed strategy in data-driven decision making and what impact it has had for the business. 
+
+The architecture of the system will also be covered, including the design decisions made along the way, as well as learnings from the implementation and deployment process. If time permits, a small demo and some code will be shown."
 -
   id: 7
   title: "Creating Portable Shell Scripts With Golang and Scriptish"
   speakers: [6]
   subtype: Languages
-  description: 
+  description: "UNIX shell scripts are a great way to quickly automate something - until you need to share them with other people, especially people running other operating systems.
+In this open workshop, Stuart will show you how to use Golang and the Scriptish library to quickly and easily replace your non-portable UNIX shell scripts with portable, easy-to-distribute single binaries."
+
 -
   id: 8
   title: "Starting Small: Putting Containers Live With K3S"
   speakers: [6]
   subtype: Cloud
-  description: 
+  description: "Many of us use Docker containers for development, but we're not ready to take the leap to running them in production using full-fat Kubernetes (K8S). What if there was a halfway house - a way to get started with Kubernetes at a very small scale? One that doesn't stop you migrating to a larger, managed Kubernetes setup as you grow?
+In this guided workshop, Stuart will introduce you to Rancher's K3S: a Kubernetes setup so small you can realistically run it on a £10-a-month VPS. He'll show you how to get your first site up and running, and show you what to keep in mind for when you're ready to migrate to full-fat Kubernetes such as Google's Kubernetes Engine (GKE)."
 -
   id: 9
   title: "XGBoost: from theory to practice"
   speakers: [7]
   subtype: AI
-  description: 
+  description: "XGBoost has become one of the go to machine learning algorithms in recent years due to its fast and accurate predictions, as well as the ability to handle very large datasets.
+In the first part of the workshop, we will cover the concepts behind XGBoost. From the humble decision tree, to bagging, to random forests, to boosting, and finally to the XGBoost algorithm.
+In the second part, we will focus on the implementation of XGBoost in Python/R, and consider practical details such as hyperparameter optimization. Finally, we will use the XGBoost algorithm on a real dataset to make predictions, and compare its performance to other machine learning algorithms."
 -
   id: 10
   title: "The Serverless Application"
   speakers: [8]
   subtype: Cloud
-  description: 
+  description: "Serverless platforms are suited to a wide range of applications from IoT & chatbots through to microservices and web hooks. In this session, I’ll introduce you to how serverless applications work and embrace cloud services to live in a world where there are many separate parts that make up the application. I'll cover the architectural patterns we use to design a serverless application including handling their stateless nature, how to use multiple functions for a task and leveraging event processing to trigger further functions. I will then turning my attention to showing you how to put these into practice by looking at how they can be implemented in an Lambda or Apache OpenWhisk.
+
+By the end of the session, you'll understand how serverless applications work and you'll want to start building your own!"
 -
   id: 11
   title: "Blockchain as a back-end"
   speakers: [9]
   subtype: Tooling
-  description: 
+  description: "A talk on new blockchain-oriented programming paradigms, including an overview of tooling, query-languages and database models that utilise the blockchain as a back-end data layer."
 -
   id: 12
   title: "Fine tuning"
   speakers: [10]
   subtype: AI
-  description: 
+  description: "We'll learn how to reuse an existing model to achieve our goal of detecting the location of Pikachu in an image. This session will explore pre-trained models and how, through transfer learning we can reuse them."
 -
   id: 13
   title: "Prototyping user interfaces using Firebase and Coda"
   speakers: [11]
   subtype: Cloud
-  description: 
+  description: "Firebase offers a great web UI for developers to update data directly in their Cloud Firestore. 
+Sometimes, for an app or a microsite, we need an interface for our clients to update data. In these cases, often a full-blown CMS isn't appropriate – they're often confusing for clients (as they tend to be designed with page content in mind) – or we spend too much time developing the UI for something quite simple.
+Recently, we've started using Coda to prototype user interfaces. Coda is like a combination between a Google Doc and a Sheet. It allows us to create tables and accompanying instructions – with a 'publish now' button that sends the content to Cloud Firestore. We can quickly iterate the admin UI. Better yet, Coda offers great reporting and analysis features, so that data in Firestore can be visualised.
+In this talk, we're going to discuss why we chose to use Coda and Firebase together, the benefits, and how we did it."
 -
   id: 14
   title: "Learning Relation Embeddings for NLP"
   speakers: [12]
   subtype: AI
-  description: 
+  description: "The field of Natural Language Processing (NLP) today is heavily reliant on vector representations
+of words (a.k.a word embeddings). These are vector spaces where each word is associated a vector,
+and these vectors are learned such that similar words (with similar meanings, like ‘table’ and
+‘chair’) are clustered together in the space. These vectors are almost always the input of deep
+learning (based on neural networks) models, simply because they provide them “for free” with
+knowledge about language and the world.
+A recent line of research suggests that these deep learning models can be enriched with relation
+embeddings, which are vectors representing the relation between two words, like [rome,italy] or
+[cat,feline]. These pairwise vectors are very useful for (1) learning how concepts are related in a
+corpus, for example for detecting bias in news writing; and (2) enriching word vectors for better
+neural text classifiers, e.g., better sentiment analysis systems.
+In this talk I will (1) Provide an introduction to word embeddings; and (2) Introduce relation vectors
+and their applications to corpus linguistics and NLP, in both cases with python code support, mostly
+using the numpy, gensim and keras libraries."
+
 -
   id: 15
   title: "User-Driven web performance"
   speakers: [13]
   subtype: Tooling
-  description: 
+  description: "How important is web performance for a product or a business is no longer a question, it is a given. At scale, big players correlate seconds of content load to millions of dollars in loss. We strive for the best with all the optimizations we develop but we lose sight of what is important, our real users. In this track we will explore some of the most important user-related performance metrics by using the latest Perfromance APIs of the browser. We will also explore how we can take our performance measures from 'lab' environment to real-world interactions using web measurement tools like Google Analytics."
+
 -
   id: 16
   title: "Experimentation and A/B tests with Google Optimize"
   speakers: [13]
   subtype: Tooling
-  description: 
+  description: "As the market dynamics are shifting faster than ever, website experiments also known as A/B tests are a must when aiming for growth and optimization. In this talk, Peter is going to present us the rich capabilities, powerful techniques and ease of use that Google Optimize has to offer for this purpose along with the correct thinking, tips and strategy for adopting an experimentation culture."
 -
   id: 17
   title: "Learn You Some Erlang For a Great Conference"
   speakers: [14]
   subtype: Languages
-  description: 
+  description: "
+  Do you need to service large user volumes? Does your system need to handle large message volumes and be fault tolerant? You may want Erlang and it's not as scary as you think.
+
+This talk will be a gentle introduction into Erlang, presented by a former Javascript developer. The first part of the talk will go over some basic use cases for the language. In the second part, we will be building up a simple chat application from a starter with a series of tutorials on some of the basic language constructs. Docker containers with tools and starting repos will be provided.
+
+If you've ever been curious about Erlang or functional programming in practice, this is a good place to start."
 -
   id: 18
   title: "Zero to Gopher"
   speakers: [15]
   subtype: Languages
-  description: 
+  description: "A lightning tour of Go. This talk will cover the essential background and key points of the language."
 -
   id: 19
   title: "Introduction to Go webservices"
   speakers: [15]
   subtype: Languages
-  description: 
+  description: "This talk will lead you through creating a simple web service in Go using just the core libraries"
 -
   id: 20
   title: "Helicopters, Eels, and Scratched Tobacconists: Notes on a truly worldwide Web"
   speakers: [16]
   subtype: Web
-  description: 
+  description: "An all-ages whistle-stop tour through the world of internationali[sz]ation and locali[sz]ation (i18n/l10n): what it is; why it matters; why it’s about more than just language; and why you’re probably doing it wrong. A must-see for devs building apps for international audiences.
+
+In March 2019, the World Wide Web turned 30, but only in the past few years has it really started to live up to that name. Six billion people and 80% of the global economy don’t speak English, and bringing the web to this massive segment of the planet presents challenges that aren’t immediately obvious in the Anglosphere. As developers, we frequently make assumptions about names, addresses, times and places that don’t necessarily hold in other cultures in other parts of the world. In this session, you’ll learn how to avoid some of these pitfalls, and how to better design and build applications with a global audience in mind."
 -
   id: 21
   title: "The Things Network"
   speakers: [17]
   subtype: Mobile
-  description: 
--
+  description: "
+  For life in the slow lane.  Try connecting up your low powered sensors and actuators using this free city-wide facility and help expand the service too?"
+-  
   id: 22
   title: "Getting the best from code review"
   speakers: [18]
   subtype: Languages
-  description: 
+  description: "When done right, code review is a great tool for levelling up developers and sharing knowledge, but when done wrong it can have a hugely negative effect, causing stress, demoralisation and burn out.
+In this talk, we’re going to take a look at some simple ways to ensure you get more from code review and how it can become a tool for good."
