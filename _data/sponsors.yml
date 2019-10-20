@@ -35,3 +35,9 @@
       descriptionFull: "Instant eCare is your UK trusted and registered online pharmacy, where you can order your prescription medication online and get it delivered to your door the very next day."
       link: "https://www.instantecare.co.uk/"
       imageUrl: "instant-e-care.png"
+    -
+      name: "Delio Wealth"
+      description: "Private Asset Infrastructure as a Service"
+      descriptionFull: "Delio works with leading global financial institutions to deliver customised technology platforms that optimise the distribution, transaction and reporting of private equity, private debt, real estate, social impact and fund investment opportunities."
+      link: "https://www.deliowealth.com/"
+      imageUrl: "delio.png"
