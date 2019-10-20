@@ -4,7 +4,7 @@
     - 
       name: "Yolk Recruitment"
       description: "Reshaping Recruitment."
-      descriptionFull: "<strong>Reshaping Recruitment</strong>. Yolk are all about people. You, yours, ours. Connecting. Building relationships. Making the right matches. Finding that missing piece. <br>Bright, bold, better. That's Yolk"
+      descriptionFull: "<strong>Reshaping Recruitment</strong>.<br> Yolk are all about people. You, yours, ours. Connecting. Building relationships. Making the right matches. Finding that missing piece. <br>Bright, bold, better. That's Yolk"
       link: "https://www.yolkrecruitment.com"
       imageUrl: "yolk-recruitment.png"
       width: "300px"
@@ -41,3 +41,10 @@
       descriptionFull: "Delio works with leading global financial institutions to deliver customised technology platforms that optimise the distribution, transaction and reporting of private equity, private debt, real estate, social impact and fund investment opportunities."
       link: "https://www.deliowealth.com/"
       imageUrl: "delio.png"
+    -
+      name: "Market Mate"
+      description: "Build a social media following in seconds."
+      descriptionFull: "Build a social media following in seconds.  Market Mate is super easy to use! Tell us what you want to talk about on your social media platforms and, as often as you ask us, we'll go and find relevant content to post for you."
+      link: "https://marketmate.ai/"
+      imageUrl: "market-mate.png"
+
