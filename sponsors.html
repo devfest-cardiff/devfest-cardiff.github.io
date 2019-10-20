@@ -1,0 +1,33 @@
+---
+layout: default
+title: Our Sponsors
+permalink: /sponsors/
+---
+
+ {% include top-section.html %}
+
+
+<div id="partners" class="partners">
+    <div class="content-wrapper">
+        <div class="col-lg-10 col-lg-offset-1">
+            {% for sponsor in site.data.sponsors %}
+            <h5>{{ sponsor.group }}</h5>            
+                {% for element in sponsor.elements %}
+                <ul class="list-inline">
+                    <li {% if element.width != null %}style="width: {{ element.width }};"{% endif %}>
+                        <a href="{{ element.link }}" target="_blank">
+                            <img src="{{ site.baseurl }}/img/sponsors/{{ element.imageUrl }}" title="{{ element.description }}" alt="{{ element.name }}">
+                        </a>
+                    </li>
+                    <li class="sponsor-description">
+                        {{ element.descriptionFull }}
+                        <br>
+                        <a href="{{ element.link }}" target="_blank">Find out more</a>
+                    </li>
+                </ul>    
+                {% endfor %}                    
+            {% endfor %}
+         
+        </div>
+    </div> 
+</div>
