@@ -35,14 +35,10 @@ In this talk, we’ll walk through the steps to build a virtual ARt gallery, wit
   description: "What are deep links, app links, universal links and why you should care (hint: money). When to use them and when you need more advanced solutions like Firebase Dynamic Links. All of that sprinkled with marketing context and jargon to impress your friends and family."
 -
   id: 6
-  title: "Large scale streaming analytics with Apache Beam"
+  title: "Android Kotlin Fundamentals"
   speakers: [5]
-  subtype: Cloud
-  description: "In this session, we will present why and how Sky moved from an on-premise, batch-focused Hadoop based analytical system, to a streaming-oriented analytics pipeline hosted in a cloud environment utilising Apache Beam.
- 
-We will explain why capturing all user interaction data is important, and how it is part of Sky’s renewed strategy in data-driven decision making and what impact it has had for the business. 
-
-The architecture of the system will also be covered, including the design decisions made along the way, as well as learnings from the implementation and deployment process. If time permits, a small demo and some code will be shown."
+  subtype: Mobile
+  description: "Learn the fundamentals of Android and Kotlin by trying out some hands on code labs from Google "
 -
   id: 7
   title: "Creating Portable Shell Scripts With Golang and Scriptish"
@@ -50,7 +46,6 @@ The architecture of the system will also be covered, including the design decisi
   subtype: Languages
   description: "UNIX shell scripts are a great way to quickly automate something - until you need to share them with other people, especially people running other operating systems.
 In this open workshop, Stuart will show you how to use Golang and the Scriptish library to quickly and easily replace your non-portable UNIX shell scripts with portable, easy-to-distribute single binaries."
-
 -
   id: 8
   title: "Starting Small: Putting Containers Live With K3S"
@@ -117,11 +112,10 @@ using the numpy, gensim and keras libraries."
 
 -
   id: 15
-  title: "User-Driven web performance"
+  title: "Google Cloud Codelab Session"
   speakers: [13]
-  subtype: Tooling
-  description: "How important is web performance for a product or a business is no longer a question, it is a given. At scale, big players correlate seconds of content load to millions of dollars in loss. We strive for the best with all the optimizations we develop but we lose sight of what is important, our real users. In this track we will explore some of the most important user-related performance metrics by using the latest Perfromance APIs of the browser. We will also explore how we can take our performance measures from 'lab' environment to real-world interactions using web measurement tools like Google Analytics."
-
+  subtype: Cloud
+  description: "TBC"
 -
   id: 16
   title: "Experimentation and A/B tests with Google Optimize"

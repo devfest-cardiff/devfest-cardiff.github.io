@@ -46,17 +46,15 @@ He is currently freelancing, and traveling with his family of 6 (plus the dog!) 
   bio: "I'm a Specialist Engineer at Google, where I help others with Firebase, especially at the edge of web and apps. I like explaining complex technical concepts to my two cats."
   thumbnailUrl: "https://sessionize.com/image?f=42fa0e5fd9f7dab06b47095d246a7038,200,200,True,False,71-c9ef-4222-a4f6-982733253223.c3177771-f9c3-478b-b08d-79199437c149.png"
   rockstar : true
-  social:
 -
   id: 5
-  name: "Matthias"
-  surname: "Baetens"
-  company: "Data Science Researcher at Arabesque / GDE for Cloud"
-  bio: "Matthias is a software engineer passionate about data; how to process it, analyse it, gain insights, and leverage it in the real world. Over the first years of his career he has built expertise in the big data stack of Google Cloud Platform. He holds a master in Computer Science Engineering and a master in Marketing Analytics. Matthias is currently based in London where he co-founded the Apache Beam meetup."
-  thumbnailUrl: "https://sessionize.com/image?f=08c45861a13222894c5b2282128f8887,200,200,True,False,c0-cff5-4639-a0cb-91b105522129.4edf81bd-c158-4195-9697-1287b4dd5e66.jpg"
+  name: "Valerio"
+  surname: "Ferreira"
+  company: "Mobile Application Developer, Technical Lead at CGI"
+  bio: "Microsoft MVP, Xamarin Certified Mobile Developer and Founder of 'Developers-BR' meetup"
+  thumbnailUrl: "https://sessionize.com/image?f=213e526febf3f80be6412a6991817353,200,200,True,False,c4-1317-4631-9401-dbbda1a509f1.bfc8ee68-fb1b-433a-8036-474e3c007395.jpg"
   social:
-  - { name: "twitter", link: "https://twitter.com/matthiasbaetens"}
-  - { name: "linkedin", link: "https://www.linkedin.com/in/matthiasbaetens/"}
+  - { name: "linkedin", link: "https://www.linkedin.com/in/valeriof/"}
 -
   id: 6
   name: "Stuart"
@@ -107,7 +105,6 @@ You can see more of Stuart's talks up on YouTube: https://www.youtube.com/channe
   bio: "Cai is a software developer, product owner and consultant. He worked at the British Medical Journal, building an adaptive learning platform and then at Amplyfi putting together a world class team of software developers. Most recently he's been helping startups with their AI and Cloud strategies."
   thumbnailUrl: "https://sessionize.com/image?f=6614d2ddd2c30d439cdb771d5bc1de8c,200,200,True,False,e5-c90f-4844-96de-e06f51a5ef0c.8ff14841-1225-4cac-ac36-3ebc6b5d4916.jpg"
   social:
-  - { name: "twitter", link: ""}
   - { name: "linkedin", link: "http://linkedin.com/in/mrcai/"}
 -
   id: 11
@@ -132,14 +129,14 @@ You can see more of Stuart's talks up on YouTube: https://www.youtube.com/channe
 
 -
   id: 13
-  name: "Peter"
-  surname: "Perlepes"
-  company: "Lead Frontline Engineer @ Welcome Pickups"
-  bio: "Petros combines a strong Computer Science background with deep understanding of Software Craftsmanship, Web Analytics and Optimization. He has worked as a software engineer and also as a web analytics consultant on enterprise analytics projects in a variety of sectors including banking, e-commerce, travel and many more. Aside from his day to day job, Petros has been working closely with top software publication companies ,like Manning and The Pragmatic Bookshelf, as a Technical Development Editor and Technical Proofer. From these projects he has been exposed to a broad spectrum of technologies ranging from Node.js, Docker and Kubernetes to Apache Kafka, Apache Spark and Ruby On Rails.
-Now his daily schedule at Welcome Pickups is tightly connected with innovation, new technologies, optimizations and making sure front-end code is as close to excellence as possible."
-  thumbnailUrl: "https://sessionize.com/image?f=953cdbcc9ed0ebb4c59194dd43d6f181,200,200,True,False,28-d625-447b-af48-0e0b10a35243.1513590d-81c2-488a-9589-26cbe1533eed.jpg"
+  name: "Graham"
+  surname: "Chukwumaobi"
+  company: "Software Engineering Student at Cardiff Met"
+  bio: "Software Engineer in the making, Cloud computing and Machine learning Enthusiast and a former co-Lead of GDG Enugu, Nigeria."
+  thumbnailUrl: "https://sessionize.com/image?f=0cebc4bc128968311af63b6c27b1b7d5,200,200,True,False,cf1ca881-1ea8-45a0-8019-5ee8105e7e03.jpg"
   social:
-  - { name: "twitter", link: "https://twitter.com/IgneelJ"}
+  - { name: "twitter", link: "https://twitter.com/GChukwumaobi"}
+  - { name: "linkedin", link: "https://www.linkedin.com/in/graham-chukwumaobi-9331b9142/"}
 
 -
   id: 14
