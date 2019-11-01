@@ -75,7 +75,7 @@ statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "120", specialCharacter: "", info: "attendees", detail: "together for the love of code"}
  - {count: "15", specialCharacter: "", info: "hours", detail: "of talks and workshops"}
- - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus breakout lounge"}
+ - {count: "4", specialCharacter: "", info: "parallel tracks", detail: "plus breakout lounge"}
  - {count: "15", specialCharacter: "+", info: "sessions", detail: "for beginners and experts"}
 
 # Latest News Block
