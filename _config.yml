@@ -48,7 +48,7 @@ navigationLinks:
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/sponsors/", text: "Sponsors"}
  - {permalink: "/team/", text: "Team"}
-#  - {permalink: "/logistics/", text: "Logistics"}
+ - {permalink: "/wtm-breakfast/", text: "Women Techmakers Breakfast"}
 bottomNavigationLinks:
  - {link: "https://www.eventbrite.com/e/devfest-cardiff-tickets-69630423471", text: "Register for a FREE ticket"}
 rightNavigationButtons:
